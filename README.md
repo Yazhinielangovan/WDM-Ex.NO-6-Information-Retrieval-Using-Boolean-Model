@@ -1,6 +1,7 @@
 # WDM-Ex.NO-6-Information-Retrieval-Using-Boolean-Model
+## Name : Yazhini E 
+## Reg.no.: 2305002028
 **Information Retrieval Using Boolean Model in Python**<br>
-**DATE:**<br>
 **AIM:** To implement Information Retrieval Using Boolean Model in Python.<br>
 **Description:**<br>
 The Boolean model in Information Retrieval (IR) is a fundamental model used for searching and retrieving information from a collection of documents. It operates on the principles of set theory and logic, where documents are represented as sets of terms or words, and queries are expressed as Boolean expressions using logical operators such as AND, OR, and NOT.<br>
@@ -92,4 +93,7 @@ else:
     print("No results found for the query.")
 ```
 **Output:**<br>
+<img width="770" height="192" alt="image" src="https://github.com/user-attachments/assets/b6e60a21-35ef-4fb3-aeb6-82888941ee05" />
+
 **Result:**
+Information Retrieval Using Boolean Model in Python is implemented.
